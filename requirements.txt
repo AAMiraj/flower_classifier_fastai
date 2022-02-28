@@ -1,2 +1,3 @@
 voila
 fastai>=2
+jupyter notebook --VoilaConfiguration.enable_nbextensions=True
